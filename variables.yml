@@ -1,2 +1,3 @@
 httpd_port=8080
 httpd_domain=www.bibinpaul.space
+php_mem=500M

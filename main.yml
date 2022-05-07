@@ -1,5 +1,6 @@
 - Rstalling apache
 - Installing PHP pkgs
+- Creating php.ini 
 - Creating httpd conf from template
 - Creating Virtualhost from virtualhost.conf.tmpl
 - Creating Doc_root
