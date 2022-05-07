@@ -1,3 +1,6 @@
 - Rstalling apache
 - Creating httpd conf from template
+- Creating Virtualhost from virtualhost.conf.tmpl
+- Creating Doc_root
+- Creating Test pages
 - Rstarting apache
